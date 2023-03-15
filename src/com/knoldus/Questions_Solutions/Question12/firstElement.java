@@ -1,6 +1,5 @@
-package Questions_Solutions.Question12;
+package com.knoldus.Questions_Solutions.Question12;
 
-import java.util.LinkedHashSet;
 import java.util.LinkedList;
 
 public class firstElement

@@ -1,4 +1,4 @@
-package Questions_Solutions.Question4;
+package com.knoldus.Questions_Solutions.Question4;
 
 import java.util.LinkedHashSet;
 

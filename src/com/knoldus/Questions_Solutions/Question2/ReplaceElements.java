@@ -1,4 +1,4 @@
-package Questions_Solutions.Question2;
+package com.knoldus.Questions_Solutions.Question2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

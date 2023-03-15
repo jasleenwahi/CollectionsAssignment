@@ -1,4 +1,4 @@
-package Questions_Solutions.Question6;
+package com.knoldus.Questions_Solutions.Question6;
 
 import java.util.LinkedList;
 

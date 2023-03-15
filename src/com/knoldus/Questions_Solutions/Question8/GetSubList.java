@@ -1,4 +1,4 @@
-package Questions_Solutions.Question8;
+package com.knoldus.Questions_Solutions.Question8;
 
 import java.util.ArrayList;
 import java.util.Collections;
